@@ -12,10 +12,12 @@ local t_prawo=display.newText("P", 290, 460, native.systemFont, 50)
 t_prawo:setTextColor(255, 0, 0)
 
 local gora=display.newRect(125, 460, 50, 50)
+
 local t_gora=display.newText("G", 125 , 460, native.systemFont, 50)
 t_gora:setTextColor(255, 0, 0)
 
 local dol=display.newRect(195, 460, 50, 50)
+
 local t_dol=display.newText("D", 195, 460, native.systemFont, 50)
 t_dol:setTextColor(255, 0, 0)
 
